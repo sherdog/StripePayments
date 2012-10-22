@@ -1,0 +1,21 @@
+<?php defined('BASEPATH') or exit('No direct script access allowed');
+$lang['payment.paypal.paypal_address'] = 'PayPal e-mail Adres';
+$lang['payment.paypal.paypal_currency'] = 'PayPal Currency';
+$lang['payment.paypal.secret_key'] = 'PayPal eigen secret key (zelf verzinnen)';
+
+$lang['payment.paypal.eur_currency'] = 'Euro';
+$lang['payment.paypal.usd_currency'] = 'Amerikaanse Dollar';
+$lang['payment.paypal.gbp_currency'] = 'Britse Pond';
+$lang['payment.paypal.aud_currency'] = 'Australian Dollar';
+$lang['payment.paypal.cad_currency'] = 'Canadese Dollar';
+$lang['payment.paypal.chf_currency'] = 'Zwitserse Frank';
+$lang['payment.paypal.czk_currency'] = 'Tsjechische Kroon';
+$lang['payment.paypal.dkk_currency'] = 'Deense Kroon';
+$lang['payment.paypal.hkd_currency'] = 'Hong Kong Dollar';
+$lang['payment.paypal.huf_currency'] = 'Hongaarse Forint';
+$lang['payment.paypal.jpy_currency'] = 'Japanse Yen';
+$lang['payment.paypal.nok_currency'] = 'Noorse Kroon';
+$lang['payment.paypal.nzd_currency'] = 'Nieuw-Zeelandse Dollar';
+$lang['payment.paypal.pln_currency'] = 'Poolse Zloty';
+$lang['payment.paypal.sek_currency'] = 'Zweedse Kroon';
+$lang['payment.paypal.sgd_currency'] = 'Singapore Dollar';
